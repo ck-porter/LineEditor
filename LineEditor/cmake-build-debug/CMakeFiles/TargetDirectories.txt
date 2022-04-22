@@ -1,0 +1,3 @@
+D:/DataStructuresSourceCode/Text_Editor/cmake-build-debug/CMakeFiles/assignment1.dir
+D:/DataStructuresSourceCode/Text_Editor/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/DataStructuresSourceCode/Text_Editor/cmake-build-debug/CMakeFiles/rebuild_cache.dir

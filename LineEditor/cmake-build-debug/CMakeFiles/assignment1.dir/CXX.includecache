@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/DataStructuresSourceCode/Text_Editor/src/LinkedList.cpp
+LinkedList.h
+D:/DataStructuresSourceCode/Text_Editor/src/LinkedList.h
+iostream
+-
+fstream
+-
+
+D:/DataStructuresSourceCode/Text_Editor/src/LinkedList.h
+ListNode.h
+D:/DataStructuresSourceCode/Text_Editor/src/ListNode.h
+
+D:/DataStructuresSourceCode/Text_Editor/src/ListNode.h
+string
+-
+
+D:/DataStructuresSourceCode/Text_Editor/src/main.cpp
+iostream
+-
+sstream
+-
+cstring
+-
+fstream
+-
+ListNode.h
+D:/DataStructuresSourceCode/Text_Editor/src/ListNode.h
+LinkedList.h
+D:/DataStructuresSourceCode/Text_Editor/src/LinkedList.h
+
